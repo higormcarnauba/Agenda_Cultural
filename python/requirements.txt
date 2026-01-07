@@ -5,3 +5,5 @@ panel
 python-dotenv
 nbconvert
 matplotlib
+bcrypt
+jupyter_bokeh
